@@ -1,0 +1,51 @@
+1. Who developed Python Programming Language? 
+A. Guido van Rossum on 20feb 1991.
+
+2. Which type of Programming does Python support?
+A. interpreted programming language
+
+3. Is Python case sensitive when dealing with identifiers?
+A. Yes
+
+4. What is the correct extension of the Python file?
+A. .py
+
+5. Is Python code compiled or Interpreted? 
+A. Interpreted
+
+6. Name a few blocks of code used to define in Python language?
+A.  a = int(input("Enter First Number:"))
+    b = int(input("Enter secound Number:"))
+    c = a+b
+    print(c)
+
+7. State a character used to give single-line comments in Python?
+A. # this is single line comments
+
+8. Mention functions which can help us to find the version of python that we are currently working on?
+A. python_version() function
+
+9. Python supports the creation of anonymous functions at runtime, using a construct called
+A. 
+
+10. What does pip stand for python?
+A. preferred installer program
+
+11. Mention a few built-in functions in python?
+A. 
+
+12. What is the maximum possible length of an identifier in Python?
+A. 79 characters
+
+13. What are the benefits of using Python?
+A. Esay to use or esay to read.
+
+14. How is memory managed in Python?
+A.
+
+15. How to install Python on Windows and set path variables?
+A. First insatll python for windows from www.python.org
+    then install latest version of python and after installion go to C drive or where your python is intalled and copay that path in my case i install in c drive so i copy C:\Users\Rishu\AppData\Local\Programs\Python\Python310\Scripts\ this path and pate in the Environment version you just right click on my pc and go to proprties and click on advance sysytm setting and there you can find the Environment version and in user variable you can add this path in that.
+
+16. Is indentation required in python?
+A. Yes
